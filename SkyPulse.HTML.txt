@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sky Pulse - Official Homepage</title>
+</head>
+<body>
+  <div class="home-description">
+    <h2>Sky Pulse</h2>
+    <p>
+      Sky Pulse is an exciting endless runner mobile game where the player soars through the skies using a powerful jetpack. Navigate through challenging obstacles, collect coins, unlock new items, and compete with your friends on the Google Play leaderboards. Experience thrilling jetpack flights combined with smooth controls and stunning graphics.
+    </p>
+    <p>
+      Join the adventure and see how far you can fly!
+    </p>
+    <p>
+      Contact us at: <a href="mailto:nnnhstudios@gmail.com">nnnhstudios@gmail.com</a>
+    </p>
+  </div>
+  <p><a href="privacy-policy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></p>
+</body>
+</html>
